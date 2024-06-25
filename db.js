@@ -5,9 +5,9 @@ class db {
         {id: '3', title: 'GTA V', platform: ['PC','XBOX SERIES X', 'PLAYSTATION 5']}
     ];
     static reviews = [
-        {id: '1', rating: 4, content: 'motherfucker this is good as shit', author_id: '1', game_id: '2'},
+        {id: '1', rating: 4, content: 'bababab mala jeu', author_id: '1', game_id: '2'},
         {id: '2', rating: 5, content: 'bruv what is this ? this is epic', author_id: '4', game_id: '1'},
-        {id: '3', rating: 1, content: 'motherfucker this is fucked up, delete yourself', author_id: '4', game_id: '2'}
+        {id: '3', rating: 1, content: 'te3b barcha jeu hedha', author_id: '4', game_id: '2'}
     ];
     static authors = [
         {id: '1', name: 'Todd Howard', verified: true},
